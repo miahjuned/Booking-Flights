@@ -7,6 +7,8 @@
  
  Features 4: The total amount of 10% VAT is shown below.
  
- Features 5: Ticket increments and decrements will be one by one.
+ Features 5: Ticket increments and decrements will be one by one. Initially the number of tickets is empty or zero
+ 
+ Features 6: If you press the minus button, the number of tickets decreases one by one, even if the number of tickets becomes 0. Then by pressing the minus button, the number of tickets will not decrease.
 
 This project  [Live link](https://zunead.github.io/Booking-Flights).
